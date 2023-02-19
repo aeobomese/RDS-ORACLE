@@ -15,7 +15,7 @@ variable "secret_key" {
 variable "storage" {
   description = "creating storage"
   type        = string
-  default     = "80"
+  default     = "100"
 
 }
 
