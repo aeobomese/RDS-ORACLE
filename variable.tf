@@ -29,7 +29,7 @@ variable "engine_version" {
 variable "username" {
   description = "creating username"
   type        = string
-  default     = "alex"
+  default     = "Riveta"
 
 }
 
